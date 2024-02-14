@@ -1,0 +1,18 @@
+#profile {
+  border: solid 3px #000000;
+  padding: 1px;
+  width: 75px;
+  display: inline;
+}
+@media screen and (max-width: 1024px) {
+  #profile {
+    border-color: red;
+  }
+}
+#profilemenu {
+  padding: 1px;
+}
+
+#camera-pic {
+  width: 500px;
+}/*# sourceMappingURL=zeroprof.css.map */
